@@ -16,8 +16,8 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko-KR"
+title                    : "DEV LIFE"
 title_separator          : "-"
 name                     : "gurukuru"
 description              : "꾸룩꾸룩"
